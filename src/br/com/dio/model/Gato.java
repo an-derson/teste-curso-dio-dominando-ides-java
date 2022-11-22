@@ -6,8 +6,8 @@ import java.util.Objects;
 /*Ctrl + m - Expande a tela*/
 /*Ctrl + n - Criar class*/
 /*Ctrl + 3 - Pesquisar*/
-/*Selecionar cÃ³digo -> Alt + seta para cima ou para baixo - Move entre linhas*/
-/*Ctrl + Shift + f - IdentaÃ§Ã£o*/
+/*Selecionar código -> Alt + seta para cima ou para baixo - Move entre linhas*/
+/*Ctrl + Shift + f - Identação*/
 
 public class Gato {
 
